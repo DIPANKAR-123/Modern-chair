@@ -369,7 +369,7 @@
   height: 100%;
   content: "";
   z-index: -1;
-  background-color: #944852;
+  background-color: #ba2438;
   transition: background-color 250ms 300ms ease;
 }
 .btn:hover {
