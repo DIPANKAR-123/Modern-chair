@@ -387,7 +387,8 @@
 
 .glowing-text {
   /* font-size: 80px; */
-  padding-left: -20px;
+  margin-bottom: 60px;
+  padding-right: 80px;
   color: #fff;
   text-align: center;
   -webkit-animation: glowing-text 1s ease-in-out infinite alternate;
